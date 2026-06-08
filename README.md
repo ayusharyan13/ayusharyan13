@@ -76,7 +76,7 @@ I don't just write code — I own outcomes end-to-end.
 
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
-| [**Microservices E-Commerce**](https://github.com/ayusharyan13/microservices-based-E-Commerce-app) | Java, Spring Boot, MongoDB, MySQL, JPA | 3-service microservices architecture with Testcontainers for integration testing |
+| [**Microservices E-Commerce**](https://github.com/ayusharyan13/microservices-based-E-Commerce-app) | Java, Spring Boot, MongoDB, MySQL, JPA | 3-service microservices architecture with Testcontainers |
 | [**Chat App Backend**](https://github.com/ayusharyan13/chat-app-backend) | Spring Boot, WebSocket, Kafka, Firebase, MySQL | Real-time chat with WebSocket, Kafka event-driven, AWS S3 |
 | [**Wellness App Backend**](https://github.com/ayusharyan13/wellness-app-backend) | Spring Boot, Redis, Kafka, JWT, Docker | Appointment booking, Redis slot management, Kafka notifications |
 | [**Sentiment Analysis**](https://github.com/ayusharyan13/Sentiment-Analysis) | Python, Flask, XGBoost, NLP | Sentiment-based product recommendation system |
