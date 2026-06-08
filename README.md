@@ -76,21 +76,23 @@ I don't just write code — I own outcomes end-to-end.
 
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
-| [**Microservices E-Commerce**](https://github.com/ayusharyan13/microservices-based-E-Commerce-app) | Java, Spring Boot, MongoDB, MySQL, JPA | 3-service microservices architecture with Testcontainers testing |
+| [**Microservices E-Commerce**](https://github.com/ayusharyan13/microservices-based-E-Commerce-app) | Java, Spring Boot, MongoDB, MySQL, JPA | 3-service microservices architecture with Testcontainers for integration testing |
 | [**Chat App Backend**](https://github.com/ayusharyan13/chat-app-backend) | Spring Boot, WebSocket, Kafka, Firebase, MySQL | Real-time chat with WebSocket, Kafka event-driven, AWS S3 |
 | [**Wellness App Backend**](https://github.com/ayusharyan13/wellness-app-backend) | Spring Boot, Redis, Kafka, JWT, Docker | Appointment booking, Redis slot management, Kafka notifications |
 | [**Sentiment Analysis**](https://github.com/ayusharyan13/Sentiment-Analysis) | Python, Flask, XGBoost, NLP | Sentiment-based product recommendation system |
 | [**E-Commerce App**](https://github.com/ayusharyan13/E-CommerceApp) | Flutter, Node.js, MongoDB | Full-stack marketplace with auth & product management |
-| [**Covid-19 Tracker**](https://github.com/ayusharyan13/portfolio) | Flutter, REST API | Real-time global COVID-19 statistics with interactive charts |
-| [**Rainfall Prediction**](https://github.com/ayusharyan13/portfolio) | Python, Scikit-learn | ML-based rainfall prediction with data preprocessing |
+| [**Covid-19 Tracker**](https://github.com/ayusharyan13/covid-19-tracker) | Flutter, REST API | Real-time global COVID-19 statistics with interactive charts |
+| [**Rainfall Prediction**](https://github.com/ayusharyan13/rainfall-prediction) | Python, Scikit-learn | ML-based rainfall prediction with data preprocessing |
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayusharyan13&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayusharyan13&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/ayusharyan13)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayusharyan13&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusharyan13&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusharyan13&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/ayusharyan13)
 
 </div>
 
